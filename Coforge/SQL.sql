@@ -9,4 +9,3 @@
   
 2. A table has a start_date and end_date column. How would you calculate the total number of overlapping days across all rows?
 
-
